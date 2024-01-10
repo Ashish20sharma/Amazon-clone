@@ -7,7 +7,7 @@ const productsSchema=new mongoose.Schema({
     url:{
         type:String
     },
-    detailsurl:{
+    detailsUrl:{
         type:String,
     },
     title:{
